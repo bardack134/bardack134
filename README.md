@@ -1,4 +1,4 @@
-## Hi... I'am Ricardo <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="35" />
+## Hi... I'am Ricardo <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="35" />  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="35" />
 I'm a Python developer with extensive knowledge of various tools such as pandas for data analysis, Django and Flask for web development, Beautiful Soup for web scraping, among others. Additionally, I hold a degree in mechanical engineering and I'm currently based in Sapporo, Japan. I'm passionate about creating innovative and efficient solutions for various technological challenges.
 - Open to project collaborations
 
