@@ -3,7 +3,7 @@ I'm a Python developer with extensive knowledge of various tools such as pandas 
 - Open to project collaborations
 
 
-## Languages:
+## 言語:
  - 英語: High Proficiency
  - 日本語: JLPTN2
  - スペイン語: Native
