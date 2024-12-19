@@ -15,9 +15,7 @@
   - <a href="https://www.instagram.com/ricardogomez902/" target="_blank" title="Instagram"><img alt="Instagram" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E1306C&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center"/>
   - <a href="https://ricardogomez.wuaze.com/home.php?i=1" target="_blank" title="LinkedIn"><img alt="ポートフォリオ" src="https://img.shields.io/static/v1?message=Portfolio&logo=folder-open&label=&color=0052CC&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center"/>
 
-<a href="https://ricardogomez.wuaze.com/home.php?i=1" target="_blank" title="ポートフォリオ">
-    <img alt="ポートフォリオ" src="https://img.shields.io/static/v1?message=ポートフォリオ&logo=folder-open&label=&color=0052CC&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center"/>
-</a>
+
 
 
 
