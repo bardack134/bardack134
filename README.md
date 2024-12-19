@@ -1,5 +1,5 @@
 ## Hi... I'am Ricardo <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="35" />  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="35" />
-こんにちは。私はゴメスリカルドです。コロンビア出身です。大学では機械工学を学び、特にロボットの開発について学んでいました。趣味は日本語とプログラミングを勉強すること、読書です。どうぞよろしくお願いします。
+こんにちは。私はゴメスリカルドです。コロンビア出身です。趣味は日本語とプログラミングを勉強すること、読書です。どうぞよろしくお願いします。
 
 
 ## 言語:
