@@ -13,7 +13,7 @@
   - <a href="https://wa.me/817045317684" title="Whatsapp"><img alt="WhatsApp" src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logoColor=white" height="30" align="center"/></a>
   - <a href="https://www.linkedin.com/in/ricardo-antonio-gomez-villalobos-659369296/" title="LinkedIn"><img alt="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=CAF4FF&logoColor=black&labelColor=&style=for-the-badge" height="30" align="center"/></a>
   - <a href="https://www.instagram.com/ricardogomez902/" title="LinkedIn"><img alt="Instagram" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E1306C&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center"/>
-  - <a href="https://ricardogomez.wuaze.com/home.php?i=1" title="LinkedIn"><img alt="Portafolio" src="https://img.shields.io/static/v1?message=Portafolio&logo=briefcase&label=&color=0052CC&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center"/>
+  - <a href="https://ricardogomez.wuaze.com/home.php?i=1" title="LinkedIn"><img alt="ポートフォリオ" src="https://img.shields.io/static/v1?message=Portafolio&logo=briefcase&label=&color=0052CC&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center"/>
 
 
 
