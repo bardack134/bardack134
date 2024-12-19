@@ -17,5 +17,5 @@ I'm a Python developer with extensive knowledge of various tools such as pandas 
 
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Skills:**  
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **スキル:**  
 [![スキル](https://skillicons.dev/icons?i=html,css,py,bootstrap,django,fastapi,postgres,sqlite,php,javascript)](#)
