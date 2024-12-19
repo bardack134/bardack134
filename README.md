@@ -4,9 +4,9 @@ I'm a Python developer with extensive knowledge of various tools such as pandas 
 
 
 ## Languages:
- - English: High Proficiency
- - Japanese: JLPTN2
- - spanish: Native
+ - 英語: High Proficiency
+ - 日本語: JLPTN2
+ - スペイン語: Native
 
 
 ## You can reach me through:
